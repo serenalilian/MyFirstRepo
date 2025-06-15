@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+
+Hi! My name is Serena Lilian. I'm learning Git and GitHub 
